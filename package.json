@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/psaksena-dev/nodejs-course-max/issues"
   },
-  "homepage": "https://github.com/psaksena-dev/nodejs-course-max#readme"
+  "homepage": "https://github.com/psaksena-dev/nodejs-course-max#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
